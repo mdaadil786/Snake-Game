@@ -41,7 +41,8 @@ A classic Snake Game built with **HTML, CSS, JavaScript** on the frontend and **
 - JSON-based score handling
 
 📸 Preview / Screenshot
-![Game Preview](http://localhost:63342/snakeGame/static/index.html?_ijt=267tcbsvj0eptvu2hke4ctq7bq&_ij_reload=RELOAD_ON_SAVE)
+![image](https://github.com/user-attachments/assets/649a2814-15ae-4a71-a010-6661b1472449)
+
 
 ## 🎮 How to Play
 
